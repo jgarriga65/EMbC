@@ -1,0 +1,7 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+.Rproj.user
+.Rhistory
+cran-comments.md
+^doc$
+^Meta$
